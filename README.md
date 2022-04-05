@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![flapperz's GitHub stats](https://github-readme-stats.vercel.app/api?username=flapperz&hide=issue&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Langs Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=flapperz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![flapperz's GitHub stats](https://github-readme-stats.vercel.app/api?username=flapperz&hide=issue&show_icons=true&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Langs Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=flapperz&layout=compact&exclude_repo=galaga&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **flapperz/flapperz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
